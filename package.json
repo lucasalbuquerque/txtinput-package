@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/lucasalbuquerque/txtinput-package"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
